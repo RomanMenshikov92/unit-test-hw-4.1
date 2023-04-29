@@ -1,5 +1,7 @@
 # Домашнее задание к лекции «Unit-тестирование»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/10crnwe9w9wsolgb?svg=true)](https://ci.appveyor.com/project/RomanMenshikov92/unit-test-hw-4-1)
+
 ## Чистые функции
 
 ### Легенда
